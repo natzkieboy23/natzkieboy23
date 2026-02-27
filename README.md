@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Benjie+Nonato;Full+Stack+Developer;Mobile+Architect;Team+Leader" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=700&lines=Benjie+Louise+Nonato;Full+Stack+Developer;Mobile+Architect;Team+Leader" />
 </p>
 
 <p align="center">
@@ -73,13 +73,6 @@ Stack: React, Vite, Rust backend
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-To enable the snake animation:
-1. Create a `.github/workflows/snake.yml` file
-2. Use the popular `Platane/snk` GitHub Action
-3. Output to `/output/github-contribution-grid-snake-dark.svg`
-
-(If you want, I can generate that workflow file for you.)
 
 ---
 
