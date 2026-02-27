@@ -61,7 +61,7 @@ Focus: Transaction processing, inventory logic, performance optimization
 
 ## Professional Experience
 
-### Full Stack Developer — Poseidon Distribution OPC  
+### Full Stack Developer III — Poseidon Distribution OPC  
 January 2026 – Present  
 
 - Architecting and developing scalable mobile and web platforms  
@@ -72,7 +72,7 @@ January 2026 – Present
 
 ---
 
-### Full Stack Developer — Comptrolla Technologies Inc.  
+### Senior Full Stack Developer — Comptrolla Technologies Inc.  
 October 2023 – December 2025  
 
 - Led development of mobile applications using React Native (Expo)  
