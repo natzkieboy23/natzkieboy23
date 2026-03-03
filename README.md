@@ -1,109 +1,143 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=750&lines=Benjie+Louise+Nonato;Full+Stack+Developer;Mobile+Architect;Technical+Team+Leader" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Benjie+Louise+Nonato;Full+Stack+Developer;Mobile+Architect;Technical+Team+Leader" />
 </p>
 
 <p align="center">
   <a href="https://portfolio.benjiepersonal.space">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2E9FFF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2E9FFF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Davao%20City,%20Philippines-1abc9c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialization-Full%20Stack%20%26%20Mobile-orange?style=for-the-badge" />
+  <a href="mailto:benjiepersonal1095@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Davao%20City%2C%20Philippines-1abc9c?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=natzkieboy23&label=Profile+Views&color=2E9FFF&style=flat-square" />
 </p>
 
 ---
 
-## Executive Summary
+## About Me
 
-Full Stack Developer and Technical Team Leader with extensive experience building scalable mobile and web applications. Proven track record in architecting production-grade systems using React, React Native, Supabase, AWS, and modern DevOps workflows. Strong focus on clean architecture, maintainable codebases, and high-performance systems.
+Full Stack Developer and Technical Team Leader with extensive experience building scalable mobile and web applications. I architect production-grade systems using **React**, **React Native**, **Supabase**, **AWS**, and modern DevOps workflows — with a strong focus on clean architecture, maintainable codebases, and high-performance systems.
+
+- Currently at **Poseidon Distribution OPC** as Full Stack Developer III
+- Building mobile platforms, backend services, and cloud integrations
+- Passionate about clean code, system design, and team mentorship
 
 ---
 
-## Core Technology Stack
+## Tech Stack
 
 ### Languages
-JavaScript (ES6+) • TypeScript • SQL • C#.NET • HTML5 • CSS3
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frontend & Mobile
-React.js • React Native (Expo) • Next.js • Vite • TailwindCSS
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
-Supabase (PostgreSQL) • Firebase • MySQL • MongoDB • REST APIs
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Cloud & DevOps
-AWS (Rekognition) • Docker • Google Cloud • Vercel • CI/CD • Git
+![AWS](https://img.shields.io/badge/AWS-Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-CI%2FCD-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## Highlighted Projects
 
-### Outsourcee Mobile Platform
-A comprehensive mobile marketplace connecting businesses with freelancers and outsourcing services.  
-Stack: React Native (Expo), Firebase  
-Focus: Real-time systems, scalable mobile architecture
-
-### AI Facial Recognition Attendance System
-Mobile attendance solution powered by AWS Rekognition for identity verification.  
-Stack: React Native, AWS  
-Focus: AI integration, identity validation, production deployment
-
-### Payroll Management Platform
-Web-based HR and payroll processing system.  
-Stack: React, TypeScript, Supabase  
-Focus: Data integrity, secure authentication, enterprise workflows
-
-### Pharmacy POS System
-Modern pharmacy point-of-sale desktop system.  
-Stack: React, Vite, Rust backend  
-Focus: Transaction processing, inventory logic, performance optimization
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Outsourcee Mobile Platform</h3>
+      <p>Comprehensive mobile marketplace connecting businesses with freelancers and outsourcing services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Native-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <p><em>Real-time systems · Scalable mobile architecture</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Facial Recognition Attendance</h3>
+      <p>Mobile attendance solution powered by AWS Rekognition for biometric identity verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/AWS-Rekognition-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      </p>
+      <p><em>AI integration · Identity validation · Production deployment</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Payroll Management Platform</h3>
+      <p>Web-based HR and payroll processing system for enterprise workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </p>
+      <p><em>Data integrity · Secure authentication · Enterprise workflows</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Pharmacy POS System</h3>
+      <p>Modern pharmacy point-of-sale desktop system with high-performance backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-Backend-000000?style=flat-square&logo=rust&logoColor=white" />
+      </p>
+      <p><em>Transaction processing · Inventory logic · Performance optimization</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Professional Experience
 
-### Full Stack Developer III — Poseidon Distribution OPC  
-January 2026 – Present  
+**Full Stack Developer III — Poseidon Distribution OPC** *(Jan 2026 – Present)*
+- Architecting and developing scalable mobile and web platforms
+- Designing backend systems using modern database and API architecture
+- Leading technical decision-making and ensuring production stability
 
-- Architecting and developing scalable mobile and web platforms  
-- Designing backend systems using modern database and API architecture  
-- Implementing secure authentication, payment workflows, and cloud integrations  
-- Leading technical decision-making and ensuring production stability  
-- Optimizing performance and enforcing maintainable code standards  
+**Senior Full Stack Developer — Comptrolla Technologies Inc.** *(Oct 2023 – Dec 2025)*
+- Led React Native (Expo) mobile application development
+- Integrated AWS Rekognition and cloud storage services
+- Implemented CI/CD pipelines and mentored junior developers
 
----
-
-### Senior Full Stack Developer — Comptrolla Technologies Inc.  
-October 2023 – December 2025  
-
-- Led development of mobile applications using React Native (Expo)  
-- Designed backend services using Supabase and cloud infrastructure  
-- Integrated AWS services including Rekognition and cloud storage  
-- Implemented CI/CD pipelines and deployment workflows  
-- Mentored junior developers and enforced coding best practices  
-- Delivered enterprise-grade systems with high reliability  
-
----
-
-### Full Stack Developer — Saint Paul Consulting Group  
-June 2019 – October 2023  
-
-- Developed full-stack web and mobile applications  
-- Designed relational databases and optimized SQL queries  
-- Built internal enterprise systems and client-facing platforms  
-- Implemented secure authentication and authorization flows  
-- Collaborated with cross-functional teams under Agile methodology  
+**Full Stack Developer — Saint Paul Consulting Group** *(Jun 2019 – Oct 2023)*
+- Developed full-stack web and mobile applications
+- Designed relational databases and optimized SQL queries
+- Built internal enterprise systems under Agile methodology
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=natzkieboy23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natzkieboy23&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natzkieboy23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 ---
@@ -111,16 +145,18 @@ June 2019 – October 2023
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/natzkieboy23/natzkieboy23/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## Contact
 
-Email: benjiepersonal1095@gmail.com  
-Portfolio: https://portfolio.benjiepersonal.space  
-Location: Davao City, Philippines  
+| | |
+|---|---|
+| **Email** | benjiepersonal1095@gmail.com |
+| **Portfolio** | https://portfolio.benjiepersonal.space |
+| **Location** | Davao City, Philippines |
 
 ---
 
