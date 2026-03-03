@@ -106,6 +106,30 @@ Full Stack Developer and Technical Team Leader with extensive experience buildin
       <p><em>Transaction processing · Inventory logic · Performance optimization</em></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AME Inventory API</h3>
+      <p>Production REST API for inventory management with bidirectional QuickBooks Desktop synchronization. Features soft deletes, UUID primary keys, and a dual-mode exe (web API + sync console) deployable as a Windows Service.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-5.7-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/EF%20Core-Pomelo-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dapper-ORM-000000?style=flat-square" />
+      </p>
+      <p><em>QuickBooks integration · Inventory management · Windows Service deployment</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AME Mobile Scanner</h3>
+      <p>React Native barcode scanner for warehouse receiving. Scan items by MPN, build a receiving list, select supplier and site, then submit a bill directly to the inventory API — with optional PDF print output.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Native-Expo%2054-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Expo%20Router-6-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Axios-HTTP-5A29E4?style=flat-square" />
+      </p>
+      <p><em>Barcode scanning · Receiving workflow · Bill submission · PDF printing</em></p>
+    </td>
+  </tr>
 </table>
 
 ---
